@@ -34,7 +34,7 @@ const Header = () => {
       <div className="bg-amber-400 text-gray-700 text-sm">
         <div className="container mx-auto flex justify-between items-center py-2 px-4 ">
           <div className="flex space-x-6 ">
-            <a href="tel:+971554244789" className="flex items-center hover:text-black">
+            <a href="tel:+0501478398" className="flex items-center hover:text-black">
               <svg
                 className="w-4 h-4 mr-1"
                 fill="currentColor"
@@ -43,7 +43,7 @@ const Header = () => {
               >
                 <path d="M497.39 361.8l-112-48a24 24 0 0 0-28 6.9l-49.6 60.6A370.66 370.66 0 0 1 130.6 204.11l60.6-49.6a23.94 23.94 0 0 0 6.9-28l-48-112A24.16 24.16 0 0 0 122.6.61l-104 24A24 24 0 0 0 0 48c0 256.5 207.9 464 464 464a24 24 0 0 0 23.4-18.6l24-104a24.29 24.29 0 0 0-14.01-27.6z" />
               </svg>
-              +971 55 424 4789
+              +0501478398
             </a>
             <a href="mailto:info@tyreservicesuae.com" className="flex items-center hover:text-black">
               <svg
@@ -99,7 +99,7 @@ const Header = () => {
             </li>
           </ul>
           <a
-            href="http://wa.me/+971554244789"
+            href="http://wa.me/+0501478398"
             className="hidden md:inline-block bg-amber-400 hover:bg-brand-dark text-white px-4 py-2 rounded"
           >
             Book Now!
