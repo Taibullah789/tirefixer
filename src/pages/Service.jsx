@@ -2,7 +2,6 @@ import React from 'react';
 import ServiceIntro from '../components/ServiceIntro';
 import Fitting from '../components/Fitting';
 import Range from '../components/Range';
-import Testimonials from '../components/Testimonials';
 import WhyChoose from '../components/WhyChoose';
 import Services from '../components/Services';
 
@@ -77,7 +76,7 @@ const Service = () => (
     <VideoSection />
     
     <WhyChoose />
-    <Testimonials />
+    
   </div>
 );
 
