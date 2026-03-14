@@ -2,6 +2,16 @@ import React from 'react';
 
 const Contact = () => (
   <div>
+     <Helmet>
+        <title>Contact Tyre Fixer UAE</title>
+
+        <meta
+          name="description"
+          content="Contact Tyre Fixer UAE for 24/7 mobile tyre repair service anywhere in UAE."
+        />
+
+        <link rel="canonical" href="https://tyrefixerr.com/contact" />
+      </Helmet>
     {/* title */}
     <section
       className="relative h-[420px] flex items-center"

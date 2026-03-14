@@ -39,7 +39,16 @@ const VideoSection = () => (
 
 const Service = () => (
   <div>
-  
+   <Helmet>
+        <title>Tyre Repair Services UAE</title>
+
+        <meta
+          name="description"
+          content="Professional tyre puncture repair, mobile tyre replacement, and emergency tyre fixing services."
+        />
+
+        <link rel="canonical" href="https://tyrefixerr.com/service" />
+      </Helmet>
 <section
       className="relative h-[420px] flex items-center"
       style={{

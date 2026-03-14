@@ -9,6 +9,16 @@ import AboutIntro from '../components/AboutIntro';
 
 const Home = () => (
   <main className="grow">
+    <Helmet>
+        <title>Tyre Fixer UAE | 24/7 Mobile Tyre Repair</title>
+
+        <meta
+          name="description"
+          content="Tyre Fixer UAE provides 24/7 mobile tyre repair and emergency roadside tyre services."
+        />
+
+        <link rel="canonical" href="https://tyrefixerr.com/" />
+      </Helmet>
     <Hero />
     <AboutIntro />
     <ServiceIntro />

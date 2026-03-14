@@ -4,7 +4,16 @@ import AboutIntro from "../components/AboutIntro";
 const About = () => {
   return (
     <div className="grow">
-        
+         <Helmet>
+        <title>About Tyre Fixer UAE</title>
+
+        <meta
+          name="description"
+          content="Learn about Tyre Fixer UAE and our professional mobile tyre repair services."
+        />
+
+        <link rel="canonical" href="https://tyrefixerr.com/about" />
+      </Helmet>
     <section
       className="relative h-[420px] flex items-center"
       style={{
