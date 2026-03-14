@@ -1,12 +1,13 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
+import logo from '../assets/logo.png';
 
 const Footer = () => (
   <footer className="bg-gray-800 text-white pt-10">
     <div className="container mx-auto px-4 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-8">
       <div>
         <img
-          src="https://tyreservicesuae.com/wp-content/uploads/elementor/thumbs/Tyre-Services-Uae-Logo-1-r794v3aulu23p393qzejblvwghmkz03whl6nh8tp1c.png"
+          src={logo}
           alt="Logo"
           className="h-12 mb-4"
         />
