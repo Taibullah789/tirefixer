@@ -31,57 +31,57 @@ const Footer = () => (
         </div>
       </div>
       <div>
-        <h4 className="font-semibold mb-2">Services</h4>
+        <h4 className="font-semibold mb-2 text-amber-400">Services</h4>
         <ul className="space-y-1 text-sm">
           <li>
-            <a href="http://wa.me/+971554244789" className="hover:text-green-400">
+            <a href="http://wa.me/971501478398" className="hover:text-green-400">
               Tyre Puncture Repair
             </a>
           </li>
           <li>
-            <a href="http://wa.me/+971554244789" className="hover:text-green-400">
+            <a href="http://wa.me/971501478398" className="hover:text-green-400">
               Mobile Tyre Repair
             </a>
           </li>
           <li>
-            <a href="http://wa.me/+971554244789" className="hover:text-green-400">
+            <a href="http://wa.me/971501478398" className="hover:text-green-400">
               Tyre Alignment Services
             </a>
           </li>
           <li>
-            <a href="http://wa.me/+971554244789" className="hover:text-green-400">
+            <a href="http://wa.me/971501478398" className="hover:text-green-400">
               Flat Tyre Puncture Repair
             </a>
           </li>
         </ul>
       </div>
       <div>
-        <h4 className="font-semibold mb-2">Support</h4>
+        <h4 className="font-semibold mb-2 text-amber-400">Support</h4>
         <ul className="space-y-1 text-sm">
           <li>
-            <a href="http://wa.me/+971554244789" className="hover:text-green-400">
+            <a href="http://wa.me/971501478398" className="hover:text-green-400">
               Help Center
             </a>
           </li>
           <li>
-            <a href="http://wa.me/+971554244789" className="hover:text-green-400">
+            <a href="http://wa.me/971501478398" className="hover:text-green-400">
               Appointment
             </a>
           </li>
           <li>
-            <a href="http://wa.me/+971554244789" className="hover:text-green-400">
+            <a href="http://wa.me/971501478398" className="hover:text-green-400">
               Contact us
             </a>
           </li>
           <li>
-            <a href="http://wa.me/+971554244789" className="hover:text-green-400">
+            <a href="http://wa.me/971501478398" className="hover:text-green-400">
               FAQ
             </a>
           </li>
         </ul>
       </div>
       <div>
-        <h4 className="font-semibold mb-2">Company</h4>
+        <h4 className="font-semibold mb-2 text-amber-400">Company</h4>
         <ul className="space-y-1 text-sm">
           <li>
             <Link to="/" className="hover:text-green-400">
@@ -108,8 +108,8 @@ const Footer = () => (
     </div>
     <div className="text-center text-xs text-gray-400 py-4">
       Developed &amp; Google Ads by{' '}
-      <a href="http://wa.me/971564952482" className="text-yellow-300">
-        Global Zenith Agency
+      <a href="http://wa.me/971501478398" className="text-yellow-300">
+        Tire Service
       </a>
     </div>
   </footer>

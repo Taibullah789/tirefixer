@@ -16,7 +16,7 @@ const Range = () => (
             <strong>tyre alignment services</strong>, we’ve got you covered.
           </p>
           <a
-            href="tel:+971554244789"
+            href="tel:+971501478398"
             className="mt-6 inline-block bg-amber-400 hover:bg-brand-dark text-white px-6 py-3 rounded"
           >
             Contact us
@@ -110,14 +110,14 @@ const Range = () => (
               <div className="mt-auto">
                 {card.button.type === 'whatsapp' ? (
                   <a
-                    href="http://wa.me/+971554244789"
+                    href="http://wa.me/971501478398"
                     className="inline-block bg-amber-400 hover:bg-brand-dark text-white px-4 py-2 rounded text-center w-full"
                   >
                     {card.button.text}
                   </a>
                 ) : (
                   <a
-                    href="tel:+971554244789"
+                    href="tel:+971501478398"
                     className="inline-block bg-amber-400 hover:bg-brand-dark text-white px-4 py-2 rounded text-center w-full"
                   >
                     {card.button.text}

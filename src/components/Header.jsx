@@ -99,7 +99,7 @@ const Header = () => {
             </li>
           </ul>
           <a
-            href="http://wa.me/+0501478398"
+            href="http://wa.me/971501478398"
             className="hidden md:inline-block bg-amber-400 hover:bg-brand-dark text-white px-4 py-2 rounded"
           >
             Book Now!

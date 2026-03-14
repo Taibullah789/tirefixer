@@ -44,7 +44,7 @@ const Hero = () => {
           <li>Flat Tyre at Night? We’re Here to Help</li>
         </ul>
         <a
-          href="http://wa.me/+971554244789"
+          href="http://wa.me/971501478398"
           className="mt-6 inline-block bg-amber-400 hover:bg-brand-dark text-white px-6 py-3 rounded"
         >
           WhatsApp Us

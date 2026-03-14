@@ -11,7 +11,7 @@ const ServiceIntro = () => (
         />
       </div>
       <div className="md:w-1/2 md:pl-8 mt-8 md:mt-0">
-        <h6 className="text-brand uppercase">Our Services</h6>
+        <h6 className="text-brand uppercase text-amber-400">Our Services</h6>
         <h2 className="text-3xl font-bold mt-2">24/7 Mobile Tyre Repair</h2>
         <p className="mt-4 text-gray-700">
           Emergency tyre repair in Dubai, anytime, day or night. We’ll be there
