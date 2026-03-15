@@ -1,5 +1,6 @@
 import React from "react";
 import AboutIntro from "../components/AboutIntro";
+import { Helmet } from "react-helmet-async";
 
 const About = () => {
   return (
