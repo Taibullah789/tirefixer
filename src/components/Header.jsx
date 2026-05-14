@@ -17,8 +17,8 @@ const Header = () => {
               📞 +971501478398
             </a>
 
-            <a href="mailto:info@tyrefixerruae.com" className="hover:text-black">
-              ✉️ info@tyrefixerruae.com
+            <a href="mailto:tyrefixer4@gmail.com" className="hover:text-black">
+              ✉️ tyrefixer4@gmail.com
             </a>
           </div>
 
